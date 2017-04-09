@@ -1,0 +1,102 @@
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_121
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8.0_121
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_121
+Ignore:		1.8.0_121
+Runtime used:	1.8.0_121 (64-bit)
+Add classpath:	ReImagePrepMain
+Launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe
+Launcher args:	-classpath "C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe;ReImagePrepMain" ReImagePrepMain
+Args length:	120/32768 chars
+Exit code:	259
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Error:		Instance already exists.
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Error:		Instance already exists.
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Error:		Instance already exists.
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_121
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8.0_121
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_121
+Ignore:		1.8.0_121
+Runtime used:	1.8.0_121 (64-bit)
+Add classpath:	ReImagePrepMain
+Launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe
+Launcher args:	-classpath "C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe;ReImagePrepMain" ReImagePrepMain
+Args length:	120/32768 chars
+Exit code:	259
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_121
+Check launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe (OK)
+Match:		1.8.0_121
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_121
+Ignore:		1.8.0_121
+Runtime used:	1.8.0_121 (64-bit)
+Add classpath:	ReImagePrepMain
+Launcher:	C:\Program Files\Java\jre1.8.0_121\bin\javaw.exe
+Launcher args:	-classpath "C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe;ReImagePrepMain" ReImagePrepMain
+Args length:	120/32768 chars
+Exit code:	259
+
+
+Version:	3.9
+CmdLine:	C:\API\Test\driveAPI01\classes\artifacts\ImagePrep\ImagePrep Beta  v1.0.exe --l4j-debug
+WOW64:		yes
+Error:		Instance already exists.
