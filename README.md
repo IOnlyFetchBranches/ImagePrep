@@ -20,4 +20,5 @@ All this is bundled into an exe using the very helpful Launch4j! :)
 <no there is no data hidden here [64] :)>
 VG8gbXkgZnV0dXJlIGVtcGxveWVyLCBJIFByb21pc2UgSSB3b250IGxldCB5b3UgZG93biA6KQ
 promise...
-<--------------------------------------->
+
+cheers!
