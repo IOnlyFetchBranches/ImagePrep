@@ -2,7 +2,7 @@
 For Increased Automation of the initial steps of the ReImaging Process
 
 Hello, Welcome If you are reading this then I don't know how, you must be a bot
-this isn't really anything special just something i drove myself to do out of passion...
+this isn't really anything special just a personal challenge 
 
 (Oh, and it also helps that it helped me understand some core principles of the Drive and Gmail APIs ^^)
 
